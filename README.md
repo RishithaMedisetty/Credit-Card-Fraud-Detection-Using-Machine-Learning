@@ -26,5 +26,3 @@ Python (Pandas, NumPy)
 Scikit-learn
 XGBoost
 Matplotlib & Seaborn
-Streamlit
-Google Colab / Jupyter Notebook
